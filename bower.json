@@ -2,6 +2,7 @@
   "name": "pdf-dist-single",
   "description": "\"single file for pdf.js and pdf.worker.js\"",
   "main": "pdf.combined.js",
+  "version": "1.5.254",
   "keywords": [
     "pdf",
     "mozilla"
