@@ -10,7 +10,7 @@
     "kajal"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/kajalSinghal/pdf-dist-single.git",
   "ignore": [
     "**/.*",
     "node_modules",
