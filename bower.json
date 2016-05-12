@@ -1,0 +1,21 @@
+{
+  "name": "pdf-dist-single",
+  "description": "\"single file for pdf.js and pdf.worker.js\"",
+  "main": "pdf.combined.js",
+  "keywords": [
+    "pdf",
+    "mozilla"
+  ],
+  "authors": [
+    "kajal"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
